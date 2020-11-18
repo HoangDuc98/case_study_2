@@ -1,0 +1,12 @@
+.container {
+    width: 500px;
+    height: 300px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+.style{
+    width: 70%;
+    height: 90%;
+    float: left;
+    text-align: center;
+}
